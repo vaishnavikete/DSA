@@ -16,7 +16,6 @@ for i in range(n):
 
 average = total / n
 print("\nAverage books borrowed:", average)
-
 # 2. Find Highest and Lowest Borrow Count
 highest = borrow[0]
 lowest = borrow[0]
